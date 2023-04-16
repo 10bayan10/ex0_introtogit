@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Red
+Favorite food: Shawarma
+Favorite musician/band: fairouz
+Favorite movie: la casa de papel 
+Requested grade in the course: 100 
